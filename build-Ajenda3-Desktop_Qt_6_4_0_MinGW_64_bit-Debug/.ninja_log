@@ -1,0 +1,13 @@
+# ninja log v5
+3	190	6901220623290480	.qt_plugins/Qt6_QmlPlugins_Imports_Ajenda3.cmake	236d5d6f107199b1
+3	190	6901220623290480	C:/Users/34722/Documents/build-Ajenda3-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_Ajenda3.cmake	236d5d6f107199b1
+13	116	6903042650815173	Ajenda3_autogen/EWIEGA46WW/qrc_qml.cpp	c90325eb12143814
+1051	1298	6901220634032953	CMakeFiles/Ajenda3.dir/Ajenda3_autogen/mocs_compilation.cpp.obj	ef3f4fb181f3372e
+10	401	6901343990621167	Ajenda3_autogen/timestamp	39782c83e85a87da
+13	116	6903042650815173	C:/Users/34722/Documents/build-Ajenda3-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Ajenda3_autogen/EWIEGA46WW/qrc_qml.cpp	c90325eb12143814
+10	401	6901343990621167	Ajenda3_autogen/mocs_compilation.cpp	39782c83e85a87da
+10	401	6901343990621167	C:/Users/34722/Documents/build-Ajenda3-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Ajenda3_autogen/mocs_compilation.cpp	39782c83e85a87da
+10	401	6901343990621167	C:/Users/34722/Documents/build-Ajenda3-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Ajenda3_autogen/timestamp	39782c83e85a87da
+117	324	6903042652819801	CMakeFiles/Ajenda3.dir/Ajenda3_autogen/EWIEGA46WW/qrc_qml.cpp.obj	d7adf3605c2534ea
+1055	5019	6901220671534311	CMakeFiles/Ajenda3.dir/main.cpp.obj	46031e63e2106845
+325	658	6903042656267778	Ajenda3.exe	81209c1cf5552fb9

@@ -1,0 +1,13 @@
+# ninja log v5
+2	93	6909549922439069	.qt_plugins/Qt6_QmlPlugins_Imports_HTML1.cmake	9bfa13ffce2935e8
+2	93	6909549922439069	C:/my projects/build-HTML1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_HTML1.cmake	9bfa13ffce2935e8
+94	462	6909549924094650	HTML1_autogen/timestamp	d95e155dd3b6286c
+94	462	6909549924094650	HTML1_autogen/mocs_compilation.cpp	d95e155dd3b6286c
+94	462	6909549924094650	C:/my projects/build-HTML1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/HTML1_autogen/timestamp	d95e155dd3b6286c
+94	462	6909549924094650	C:/my projects/build-HTML1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/HTML1_autogen/mocs_compilation.cpp	d95e155dd3b6286c
+463	548	6909549926934702	HTML1_autogen/EWIEGA46WW/qrc_qml.cpp	ad123bfc33d82e16
+463	548	6909549926934702	C:/my projects/build-HTML1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/HTML1_autogen/EWIEGA46WW/qrc_qml.cpp	ad123bfc33d82e16
+548	663	6909549928142039	CMakeFiles/HTML1.dir/HTML1_autogen/mocs_compilation.cpp.obj	420eaacc079acecf
+552	705	6909549928560927	CMakeFiles/HTML1.dir/HTML1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	7586e68500196bf6
+571	3102	6909549952372914	CMakeFiles/HTML1.dir/main.cpp.obj	c448574c5331cc29
+3203	3538	6909549956858841	HTML1.exe	78096fe31366a75

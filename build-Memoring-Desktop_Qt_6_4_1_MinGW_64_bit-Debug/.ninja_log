@@ -1,0 +1,25 @@
+# ninja log v5
+133	508	6909552989027932	C:/my projects/build-Memoring-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Memoring_autogen/timestamp	bac2eaab87db19e4
+11	1601	6909553464477233	build.ninja	f2739fd889511b66
+133	508	6909552989027932	C:/my projects/build-Memoring-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Memoring_autogen/mocs_compilation.cpp	bac2eaab87db19e4
+2	132	6909552987191381	.qt_plugins/Qt6_QmlPlugins_Imports_Memoring.cmake	7ff9abf801d9a4e5
+133	508	6909552989027932	Memoring_autogen/mocs_compilation.cpp	bac2eaab87db19e4
+2	132	6909552987191381	C:/my projects/build-Memoring-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_Memoring.cmake	7ff9abf801d9a4e5
+133	508	6909552989027932	Memoring_autogen/timestamp	bac2eaab87db19e4
+509	580	6909552991632382	Memoring_autogen/EWIEGA46WW/qrc_qml.cpp	a1a5afc7ad2d2bfa
+509	580	6909552991632382	C:/my projects/build-Memoring-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Memoring_autogen/EWIEGA46WW/qrc_qml.cpp	a1a5afc7ad2d2bfa
+584	719	6909552993039150	CMakeFiles/Memoring.dir/Memoring_autogen/EWIEGA46WW/qrc_qml.cpp.obj	4122f8967d621f14
+587	741	6909552993179591	CMakeFiles/Memoring.dir/Memoring_autogen/mocs_compilation.cpp.obj	63b9e695de18e320
+581	3283	6909553018699691	CMakeFiles/Memoring.dir/main.cpp.obj	863d0ab248cc48fc
+3303	3566	6909553021518655	Memoring.exe	a517a6261031c08c
+17	1812	6909553467829050	Memoring_autogen/timestamp	bac2eaab87db19e4
+17	1812	6909553467829050	Memoring_autogen/mocs_compilation.cpp	bac2eaab87db19e4
+17	1812	6909553467829050	C:/my projects/build-Memoring-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Memoring_autogen/timestamp	bac2eaab87db19e4
+17	1812	6909553467829050	C:/my projects/build-Memoring-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Memoring_autogen/mocs_compilation.cpp	bac2eaab87db19e4
+1813	5000	6909553504965785	CMakeFiles/Memoring.dir/prueba.cpp.obj	7392b0e722baef4b
+1821	5183	6909553506790906	CMakeFiles/Memoring.dir/Memoring_autogen/mocs_compilation.cpp.obj	63b9e695de18e320
+5183	5562	6909553510577027	Memoring.exe	da9d8db0f5c5ca74
+14	92	6909554430117915	Memoring_autogen/EWIEGA46WW/qrc_qml.cpp	a1a5afc7ad2d2bfa
+14	92	6909554430117915	C:/my projects/build-Memoring-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Memoring_autogen/EWIEGA46WW/qrc_qml.cpp	a1a5afc7ad2d2bfa
+93	182	6909554431055404	CMakeFiles/Memoring.dir/Memoring_autogen/EWIEGA46WW/qrc_qml.cpp.obj	4122f8967d621f14
+183	431	6909554433518818	Memoring.exe	da9d8db0f5c5ca74

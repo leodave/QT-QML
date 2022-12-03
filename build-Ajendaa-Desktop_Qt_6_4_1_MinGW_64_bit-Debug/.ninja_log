@@ -1,0 +1,13 @@
+# ninja log v5
+3	127	6905811923502840	.qt_plugins/Qt6_QmlPlugins_Imports_Ajendaa.cmake	f036b13498dc04b1
+3	127	6905811923502840	C:/Users/34722/Documents/build-Ajendaa-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_Ajendaa.cmake	f036b13498dc04b1
+128	631	6905811925843289	Ajendaa_autogen/timestamp	b9111fd1a35587b3
+128	631	6905811925843289	Ajendaa_autogen/mocs_compilation.cpp	b9111fd1a35587b3
+128	631	6905811925843289	C:/Users/34722/Documents/build-Ajendaa-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Ajendaa_autogen/timestamp	b9111fd1a35587b3
+128	631	6905811925843289	C:/Users/34722/Documents/build-Ajendaa-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Ajendaa_autogen/mocs_compilation.cpp	b9111fd1a35587b3
+632	745	6905811929644889	Ajendaa_autogen/EWIEGA46WW/qrc_qml.cpp	a072d333b57adae5
+632	745	6905811929644889	C:/Users/34722/Documents/build-Ajendaa-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Ajendaa_autogen/EWIEGA46WW/qrc_qml.cpp	a072d333b57adae5
+759	929	6905811931276394	CMakeFiles/Ajendaa.dir/Ajendaa_autogen/mocs_compilation.cpp.obj	a2d6bca9db752e94
+752	944	6905811931609917	CMakeFiles/Ajendaa.dir/Ajendaa_autogen/EWIEGA46WW/qrc_qml.cpp.obj	d23f7eb79b42ea21
+746	4020	6905811962425162	CMakeFiles/Ajendaa.dir/main.cpp.obj	c4a5478b297c7770
+4048	4348	6905811965698918	Ajendaa.exe	7e76eed51aeda9d1

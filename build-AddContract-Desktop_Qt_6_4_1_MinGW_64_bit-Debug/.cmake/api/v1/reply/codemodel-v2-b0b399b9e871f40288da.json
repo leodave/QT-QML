@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4d09d4722a41845f4865.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AddContract",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AddContract::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AddContract-Debug-2420d61a8c9635c9a91e.json",
+					"name" : "AddContract",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AddContract_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AddContract_autogen-Debug-45281f7e59f50e7a0b89.json",
+					"name" : "AddContract_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AddContract_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AddContract_autogen_timestamp_deps-Debug-45fb90136bd3ae2fa71c.json",
+					"name" : "AddContract_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AddContract_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AddContract_qmlimportscan-Debug-e44c660649acc01611d6.json",
+					"name" : "AddContract_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/34722/Documents/build-AddContract-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/34722/Documents/AddContract"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

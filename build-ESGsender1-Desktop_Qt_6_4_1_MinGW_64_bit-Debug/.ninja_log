@@ -1,0 +1,85 @@
+# ninja log v5
+257	37461	6910787039974838	build.ninja	2ddbd786e8bca893
+65	4391	6910726757163422	.qt_plugins/Qt6_QmlPlugins_Imports_ESGsender1.cmake	a51523a39cbe1016
+3669	4970	6910807179863275	ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+65	4391	6910726757163422	C:/my projects/build-ESGsender1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_ESGsender1.cmake	a51523a39cbe1016
+63	3632	6910807168227405	ESGsender1_autogen/timestamp	9583fe98d4ce6b1c
+5791	11721	6910801064672925	CMakeFiles/ESGsender1.dir/filesend.cpp.obj	77af1fa9bfaa5819
+63	3632	6910807168227405	ESGsender1_autogen/mocs_compilation.cpp	9583fe98d4ce6b1c
+63	3632	6910807168227405	C:/my projects/build-ESGsender1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/timestamp	9583fe98d4ce6b1c
+63	3632	6910807168227405	C:/my projects/build-ESGsender1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/mocs_compilation.cpp	9583fe98d4ce6b1c
+3669	4970	6910807179863275	C:/my projects/build-ESGsender1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+5795	11707	6910801064483039	CMakeFiles/ESGsender1.dir/serialgraphic.cpp.obj	7d7b187e8b07caa6
+4970	5811	6910807191026309	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	95740a32476bd817
+5830	12096	6910801068592701	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/mocs_compilation.cpp.obj	469210ae98a3b0a9
+4974	10684	6910807240230679	CMakeFiles/ESGsender1.dir/main.cpp.obj	fe48510e320c04cf
+10685	11182	6910807245225680	ESGsender1.exe	521cc6f712198640
+21	108	6910809140438856	ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+21	108	6910809140438856	C:/my projects/build-ESGsender1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+109	222	6910809141560969	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	95740a32476bd817
+223	690	6910809146258464	ESGsender1.exe	521cc6f712198640
+11	124	6910809487284753	ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+11	124	6910809487284753	C:/my projects/build-ESGsender1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+124	222	6910809488511470	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	95740a32476bd817
+223	732	6910809493538920	ESGsender1.exe	521cc6f712198640
+15	111	6910809632466024	ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+15	111	6910809632466024	C:/my projects/build-ESGsender1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+111	269	6910809634081693	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	95740a32476bd817
+270	837	6910809639753183	ESGsender1.exe	521cc6f712198640
+15	113	6910811331695914	ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+15	113	6910811331695914	C:/my projects/build-ESGsender1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+113	232	6910811332927515	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	95740a32476bd817
+233	748	6910811338062937	ESGsender1.exe	521cc6f712198640
+12	98	6910811574458195	ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+12	98	6910811574458195	C:/my projects/build-ESGsender1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+99	210	6910811575585462	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	95740a32476bd817
+211	704	6910811580442461	ESGsender1.exe	521cc6f712198640
+27	129	6910811979783029	ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+27	129	6910811979783029	C:/my projects/build-ESGsender1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+129	233	6910811980845314	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	95740a32476bd817
+233	697	6910811985368504	ESGsender1.exe	521cc6f712198640
+15	109	6910812277577978	ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+15	109	6910812277577978	C:/my projects/build-ESGsender1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+109	205	6910812278635140	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	95740a32476bd817
+206	695	6910812283467319	ESGsender1.exe	521cc6f712198640
+13	139	6910812379670231	ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+13	139	6910812379670231	C:/my projects/build-ESGsender1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+139	269	6910812381091612	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	95740a32476bd817
+270	750	6910812385804199	ESGsender1.exe	521cc6f712198640
+13	102	6910812504383484	ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+13	102	6910812504383484	C:/my projects/build-ESGsender1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+102	222	6910812505616164	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	95740a32476bd817
+223	755	6910812510882295	ESGsender1.exe	521cc6f712198640
+16	125	6910812617562183	ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+16	125	6910812617562183	C:/my projects/build-ESGsender1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+125	238	6910812618848729	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	95740a32476bd817
+239	716	6910812623615982	ESGsender1.exe	521cc6f712198640
+14	95	6910812982108840	ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+14	95	6910812982108840	C:/my projects/build-ESGsender1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+95	191	6910812983177252	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	95740a32476bd817
+192	602	6910812987199716	ESGsender1.exe	521cc6f712198640
+12	97	6910813165212055	ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+12	97	6910813165212055	C:/my projects/build-ESGsender1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+97	215	6910813166368952	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	95740a32476bd817
+216	709	6910813171267889	ESGsender1.exe	521cc6f712198640
+16	4846	6910814605055609	ESGsender1_autogen/timestamp	9583fe98d4ce6b1c
+16	4846	6910814605055609	ESGsender1_autogen/mocs_compilation.cpp	9583fe98d4ce6b1c
+16	4846	6910814605055609	C:/my projects/build-ESGsender1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/timestamp	9583fe98d4ce6b1c
+16	4846	6910814605055609	C:/my projects/build-ESGsender1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/mocs_compilation.cpp	9583fe98d4ce6b1c
+4879	5729	6910814615132312	ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+4879	5729	6910814615132312	C:/my projects/build-ESGsender1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+5729	5980	6910814618041100	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	95740a32476bd817
+5734	12126	6910814678544305	CMakeFiles/ESGsender1.dir/main.cpp.obj	fe48510e320c04cf
+12127	13667	6910814694892688	ESGsender1.exe	521cc6f712198640
+25	128	6910814797940625	ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+25	128	6910814797940625	C:/my projects/build-ESGsender1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+128	257	6910814799232264	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	95740a32476bd817
+258	742	6910814804104344	ESGsender1.exe	521cc6f712198640
+10	95	6910815428494891	ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+10	95	6910815428494891	C:/my projects/build-ESGsender1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+96	224	6910815429801396	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	95740a32476bd817
+225	721	6910815434740135	ESGsender1.exe	521cc6f712198640
+11	97	6910819500737628	ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+11	97	6910819500737628	C:/my projects/build-ESGsender1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	c7007fdbafee7049
+98	205	6910819501844513	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	95740a32476bd817
+206	658	6910819506259837	ESGsender1.exe	521cc6f712198640

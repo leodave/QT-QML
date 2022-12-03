@@ -1,0 +1,86 @@
+# ninja log v5
+14	1528	6910847625578433	build.ninja	4a4b7171a05425a7
+5062	9082	6910838549411494	CMakeFiles/ESGsender.dir/ESGsender_autogen/EWIEGA46WW/qrc_qml.cpp.obj	1883762ef224782b
+16	1501	6910844114365220	ESGsender_autogen/timestamp	e5fdefca4fb68896
+4968	5055	6910838509577576	ESGsender_autogen/EWIEGA46WW/qrc_qml.cpp	2daf0754a4bcc413
+3	1355	6910709922512529	.qt_plugins/Qt6_QmlPlugins_Imports_ESGsender.cmake	d0405d42d8193584
+3	1355	6910709922512529	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_ESGsender.cmake	d0405d42d8193584
+16	1501	6910844114365220	ESGsender_autogen/mocs_compilation.cpp	e5fdefca4fb68896
+16	1501	6910844114365220	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender_autogen/timestamp	e5fdefca4fb68896
+16	1501	6910844114365220	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender_autogen/mocs_compilation.cpp	e5fdefca4fb68896
+4968	5055	6910838509577576	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender_autogen/EWIEGA46WW/qrc_qml.cpp	2daf0754a4bcc413
+1502	4770	6910844150245160	CMakeFiles/ESGsender.dir/ESGsender_autogen/mocs_compilation.cpp.obj	30b4d9fa2e8b266b
+5066	11235	6910838571334037	CMakeFiles/ESGsender.dir/main.cpp.obj	d0d7f33a3adfa800
+4771	5073	6910844153452912	ESGsender.exe	374b719701d5506d
+1505	4764	6910844150245160	CMakeFiles/ESGsender.dir/filesend.cpp.obj	ffa83fd7b9283b32
+3	561	6910846351541100	.qt_plugins/Qt6_QmlPlugins_Imports_ESGsender1.cmake	2bb9b19f9e220b9b
+3	561	6910846351541100	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_ESGsender1.cmake	2bb9b19f9e220b9b
+562	2703	6910846368222217	ESGsender1_autogen/timestamp	476d9dba955a3a60
+2835	7275	6910846418715840	CMakeFiles/ESGsender1.dir/filesend.cpp.obj	fd51227eebaa7a21
+562	2703	6910846368222217	ESGsender1_autogen/mocs_compilation.cpp	476d9dba955a3a60
+562	2703	6910846368222217	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/timestamp	476d9dba955a3a60
+562	2703	6910846368222217	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/mocs_compilation.cpp	476d9dba955a3a60
+16	91	6910846855042070	ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	dda01541e7955b50
+16	91	6910846855042070	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	dda01541e7955b50
+92	183	6910846855979584	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	554e052f39faf9bd
+2795	7296	6910846418977525	CMakeFiles/ESGsender1.dir/main.cpp.obj	d1e7609d9157c1e4
+2842	7373	6910846419734756	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/mocs_compilation.cpp.obj	9ac4dd151023cd33
+183	473	6910846858862116	ESGsender1.exe	663896318dde7975
+9	1363	6910847623921514	ESGsender1_autogen/timestamp	476d9dba955a3a60
+9	1363	6910847623921514	ESGsender1_autogen/mocs_compilation.cpp	476d9dba955a3a60
+9	1363	6910847623921514	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/timestamp	476d9dba955a3a60
+9	1363	6910847623921514	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/mocs_compilation.cpp	476d9dba955a3a60
+1366	5177	6910847665559457	CMakeFiles/ESGsender1.dir/serialgraphic.cpp.obj	f5c929f5e091bfc7
+1364	6280	6910847676716177	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/mocs_compilation.cpp.obj	9ac4dd151023cd33
+6280	6732	6910847681224123	ESGsender1.exe	521cc6f712198640
+31	1910	6910848501754209	ESGsender1_autogen/timestamp	476d9dba955a3a60
+31	1910	6910848501754209	ESGsender1_autogen/mocs_compilation.cpp	476d9dba955a3a60
+31	1910	6910848501754209	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/timestamp	476d9dba955a3a60
+31	1910	6910848501754209	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/mocs_compilation.cpp	476d9dba955a3a60
+1911	2035	6910848507174150	ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	dda01541e7955b50
+1911	2035	6910848507174150	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	dda01541e7955b50
+2035	2444	6910848510910338	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	554e052f39faf9bd
+2046	7008	6910848557182148	CMakeFiles/ESGsender1.dir/main.cpp.obj	d1e7609d9157c1e4
+2043	7106	6910848558219375	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/mocs_compilation.cpp.obj	9ac4dd151023cd33
+40	4405	6910850212930271	ESGsender1_autogen/timestamp	476d9dba955a3a60
+40	4405	6910850212930271	ESGsender1_autogen/mocs_compilation.cpp	476d9dba955a3a60
+40	4405	6910850212930271	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/timestamp	476d9dba955a3a60
+40	4405	6910850212930271	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/mocs_compilation.cpp	476d9dba955a3a60
+4406	8439	6910850265370020	CMakeFiles/ESGsender1.dir/serialgraphic.cpp.obj	f5c929f5e091bfc7
+4413	8724	6910850268601578	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/mocs_compilation.cpp.obj	9ac4dd151023cd33
+4410	9223	6910850273717190	CMakeFiles/ESGsender1.dir/main.cpp.obj	d1e7609d9157c1e4
+9224	9580	6910850277149525	ESGsender1.exe	521cc6f712198640
+33	1811	6910850684365472	ESGsender1_autogen/timestamp	476d9dba955a3a60
+33	1811	6910850684365472	ESGsender1_autogen/mocs_compilation.cpp	476d9dba955a3a60
+33	1811	6910850684365472	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/timestamp	476d9dba955a3a60
+33	1811	6910850684365472	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/mocs_compilation.cpp	476d9dba955a3a60
+1845	5980	6910850727275324	CMakeFiles/ESGsender1.dir/serialgraphic.cpp.obj	f5c929f5e091bfc7
+5981	6331	6910850730816652	ESGsender1.exe	521cc6f712198640
+11	471	6910897449418528	ESGsender1_autogen/timestamp	476d9dba955a3a60
+11	471	6910897449418528	ESGsender1_autogen/mocs_compilation.cpp	476d9dba955a3a60
+11	471	6910897449418528	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/timestamp	476d9dba955a3a60
+11	471	6910897449418528	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/mocs_compilation.cpp	476d9dba955a3a60
+496	2954	6910897474197695	CMakeFiles/ESGsender1.dir/filesend.cpp.obj	fd51227eebaa7a21
+2955	3312	6910897477766121	ESGsender1.exe	521cc6f712198640
+11	179	6913435735230345	ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	dda01541e7955b50
+11	179	6913435735230345	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp	dda01541e7955b50
+179	316	6913435736606654	CMakeFiles/ESGsender1.dir/ESGsender1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	554e052f39faf9bd
+316	1004	6913435743487006	ESGsender1.exe	521cc6f712198640
+13	931	6913442617418164	ESGsender1_autogen/timestamp	476d9dba955a3a60
+13	931	6913442617418164	ESGsender1_autogen/mocs_compilation.cpp	476d9dba955a3a60
+13	931	6913442617418164	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/timestamp	476d9dba955a3a60
+13	931	6913442617418164	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/mocs_compilation.cpp	476d9dba955a3a60
+965	6340	6913442671471434	CMakeFiles/ESGsender1.dir/filesend.cpp.obj	fd51227eebaa7a21
+6340	6910	6913442676947194	ESGsender1.exe	521cc6f712198640
+246	6669	6913444636639717	ESGsender1_autogen/timestamp	476d9dba955a3a60
+246	6669	6913444636639717	ESGsender1_autogen/mocs_compilation.cpp	476d9dba955a3a60
+246	6669	6913444636639717	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/timestamp	476d9dba955a3a60
+246	6669	6913444636639717	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/mocs_compilation.cpp	476d9dba955a3a60
+6704	11658	6913444688513929	CMakeFiles/ESGsender1.dir/filesend.cpp.obj	fd51227eebaa7a21
+11660	12204	6913444693905333	ESGsender1.exe	521cc6f712198640
+35	711	6914670610009824	ESGsender1_autogen/timestamp	476d9dba955a3a60
+35	711	6914670610009824	ESGsender1_autogen/mocs_compilation.cpp	476d9dba955a3a60
+35	711	6914670610009824	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/timestamp	476d9dba955a3a60
+35	711	6914670610009824	C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGsender1_autogen/mocs_compilation.cpp	476d9dba955a3a60
+735	6277	6914670665631980	CMakeFiles/ESGsender1.dir/filesend.cpp.obj	fd51227eebaa7a21
+6278	8984	6914670692653764	ESGsender1.exe	521cc6f712198640

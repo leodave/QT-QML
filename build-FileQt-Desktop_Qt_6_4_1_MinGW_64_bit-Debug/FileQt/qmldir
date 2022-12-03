@@ -1,0 +1,4 @@
+module FileQt
+typeinfo appFileQt.qmltypes
+prefer :/FileQt/
+

@@ -1,0 +1,21 @@
+# ninja log v5
+3	195	6905826308025827	.qt_plugins/Qt6_QmlPlugins_Imports_SelectColor1.cmake	f42d374ee292dca
+3	195	6905826308025827	C:/Users/34722/Documents/build-SelectColor1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_SelectColor1.cmake	f42d374ee292dca
+35	941	6905826821427773	SelectColor1_autogen/timestamp	e5b1a78b0ccb58f5
+35	941	6905826821427773	C:/Users/34722/Documents/build-SelectColor1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/SelectColor1_autogen/mocs_compilation.cpp	e5b1a78b0ccb58f5
+35	941	6905826821427773	SelectColor1_autogen/mocs_compilation.cpp	e5b1a78b0ccb58f5
+35	941	6905826821427773	C:/Users/34722/Documents/build-SelectColor1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/SelectColor1_autogen/timestamp	e5b1a78b0ccb58f5
+26	144	6905826988913743	C:/Users/34722/Documents/build-SelectColor1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/SelectColor1_autogen/EWIEGA46WW/qrc_qml.cpp	7c01362d15ffc6bc
+26	144	6905826988913743	SelectColor1_autogen/EWIEGA46WW/qrc_qml.cpp	7c01362d15ffc6bc
+1099	1574	6905826320849286	CMakeFiles/SelectColor1.dir/SelectColor1_autogen/mocs_compilation.cpp.obj	294eb2e0e629f468
+144	293	6905826990509478	CMakeFiles/SelectColor1.dir/SelectColor1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	9b8598f437bbb5b0
+1095	4933	6905826355581989	CMakeFiles/SelectColor1.dir/main.cpp.obj	e1e8b0279b096a78
+294	679	6905826994299344	SelectColor1.exe	73a26376f92a4d13
+14	399	6905827459746250	SelectColor1_autogen/timestamp	e5b1a78b0ccb58f5
+14	399	6905827459746250	SelectColor1_autogen/mocs_compilation.cpp	e5b1a78b0ccb58f5
+14	399	6905827459746250	C:/Users/34722/Documents/build-SelectColor1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/SelectColor1_autogen/timestamp	e5b1a78b0ccb58f5
+14	399	6905827459746250	C:/Users/34722/Documents/build-SelectColor1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/SelectColor1_autogen/mocs_compilation.cpp	e5b1a78b0ccb58f5
+419	540	6905827461082668	SelectColor1_autogen/EWIEGA46WW/qrc_qml.cpp	7c01362d15ffc6bc
+419	540	6905827461082668	C:/Users/34722/Documents/build-SelectColor1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/SelectColor1_autogen/EWIEGA46WW/qrc_qml.cpp	7c01362d15ffc6bc
+540	1093	6905827466562232	CMakeFiles/SelectColor1.dir/SelectColor1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	9b8598f437bbb5b0
+1094	1450	6905827470103717	SelectColor1.exe	73a26376f92a4d13

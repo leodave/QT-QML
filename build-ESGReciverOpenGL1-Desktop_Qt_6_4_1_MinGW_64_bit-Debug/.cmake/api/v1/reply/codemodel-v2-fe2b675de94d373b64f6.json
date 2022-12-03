@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f545568fb06edf5a715d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ESGReciverOpenGL1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ESGReciverOpenGL1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ESGReciverOpenGL1-Debug-972e9dff19f723769187.json",
+					"name" : "ESGReciverOpenGL1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ESGReciverOpenGL1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ESGReciverOpenGL1_autogen-Debug-0f993b2f552bdf385929.json",
+					"name" : "ESGReciverOpenGL1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ESGReciverOpenGL1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ESGReciverOpenGL1_autogen_timestamp_deps-Debug-db28df8a8c2df9025d72.json",
+					"name" : "ESGReciverOpenGL1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/my projects/build-ESGReciverOpenGL1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "C:/my projects/ESGReciverOpenGL1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

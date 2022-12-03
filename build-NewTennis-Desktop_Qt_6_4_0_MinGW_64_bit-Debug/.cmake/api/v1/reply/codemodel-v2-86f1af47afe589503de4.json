@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ba967e8b349107278a78.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "NewTennis",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "NewTennis::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NewTennis-Debug-cf98cd6df13bd0a85c1a.json",
+					"name" : "NewTennis",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NewTennis_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NewTennis_autogen-Debug-530a00a446fc8f45dc34.json",
+					"name" : "NewTennis_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NewTennis_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NewTennis_autogen_timestamp_deps-Debug-e4a96c744c7e41917882.json",
+					"name" : "NewTennis_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NewTennis_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NewTennis_qmlimportscan-Debug-2842cea9c2b799a53479.json",
+					"name" : "NewTennis_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/34722/Documents/build-NewTennis-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/34722/Documents/NewTennis"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

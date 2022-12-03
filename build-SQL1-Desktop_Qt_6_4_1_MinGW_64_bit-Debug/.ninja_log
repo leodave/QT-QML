@@ -1,0 +1,13 @@
+# ninja log v5
+2	175	6905789513158460	.qt_plugins/Qt6_QmlPlugins_Imports_SQL1.cmake	81c238f2e20c03dd
+2	175	6905789513158460	C:/Users/34722/Documents/build-SQL1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_SQL1.cmake	81c238f2e20c03dd
+176	666	6905789515523820	SQL1_autogen/timestamp	7565bf76b6278ee6
+176	666	6905789515523820	SQL1_autogen/mocs_compilation.cpp	7565bf76b6278ee6
+176	666	6905789515523820	C:/Users/34722/Documents/build-SQL1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/SQL1_autogen/timestamp	7565bf76b6278ee6
+176	666	6905789515523820	C:/Users/34722/Documents/build-SQL1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/SQL1_autogen/mocs_compilation.cpp	7565bf76b6278ee6
+667	801	6905789519351252	SQL1_autogen/EWIEGA46WW/qrc_qml.cpp	32760ecc620d5811
+667	801	6905789519351252	C:/Users/34722/Documents/build-SQL1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/SQL1_autogen/EWIEGA46WW/qrc_qml.cpp	32760ecc620d5811
+815	967	6905789520909930	CMakeFiles/SQL1.dir/SQL1_autogen/mocs_compilation.cpp.obj	56bf158e3bcea157
+801	1001	6905789521457911	CMakeFiles/SQL1.dir/SQL1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	69616faf3a739e72
+808	4036	6905789551774289	CMakeFiles/SQL1.dir/main.cpp.obj	ae163df04172bfe8
+4047	4351	6905789554902494	SQL1.exe	2c127f98607cadad

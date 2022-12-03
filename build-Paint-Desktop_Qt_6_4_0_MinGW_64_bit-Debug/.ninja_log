@@ -1,0 +1,24 @@
+# ninja log v5
+4	1060	6896885255587650	.qt_plugins/Qt6_QmlPlugins_Imports_Paint.cmake	c2eba0bf7e90d9f5
+1061	1734	6896885260689958	Paint_autogen/timestamp	c17ffe051886cb7e
+10	104	6896967256821838	C:/Users/34722/Documents/build-Paint-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Paint_autogen/EWIEGA46WW/qrc_qml.cpp	1cc7679a6f46f5e1
+4	1060	6896885255587650	C:/Users/34722/Documents/build-Paint-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_Paint.cmake	c2eba0bf7e90d9f5
+1061	1734	6896885260689958	Paint_autogen/mocs_compilation.cpp	c17ffe051886cb7e
+1061	1734	6896885260689958	C:/Users/34722/Documents/build-Paint-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Paint_autogen/timestamp	c17ffe051886cb7e
+10	104	6896967256821838	Paint_autogen/EWIEGA46WW/qrc_qml.cpp	1cc7679a6f46f5e1
+1061	1734	6896885260689958	C:/Users/34722/Documents/build-Paint-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Paint_autogen/mocs_compilation.cpp	c17ffe051886cb7e
+1830	1994	6896885267020109	CMakeFiles/Paint.dir/Paint_autogen/mocs_compilation.cpp.obj	2d31c6de6631cc24
+105	226	6896967257988958	CMakeFiles/Paint.dir/Paint_autogen/EWIEGA46WW/qrc_qml.cpp.obj	f2543d94504f7d8a
+1833	5967	6896885306780693	CMakeFiles/Paint.dir/main.cpp.obj	c9df79e29f805ce4
+227	532	6896967261096713	Paint.exe	90aee41fd0cad7be
+17	18396	6896968243161461	build.ninja	f40a50f81d31bdc
+90	5254	6896968298242085	Paint_autogen/timestamp	c17ffe051886cb7e
+90	5254	6896968298242085	Paint_autogen/mocs_compilation.cpp	c17ffe051886cb7e
+90	5254	6896968298242085	C:/Users/34722/Documents/build-Paint-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Paint_autogen/timestamp	c17ffe051886cb7e
+90	5254	6896968298242085	C:/Users/34722/Documents/build-Paint-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Paint_autogen/mocs_compilation.cpp	c17ffe051886cb7e
+5255	5514	6896968307014506	Paint_autogen/EWIEGA46WW/qrc_qml.cpp	1cc7679a6f46f5e1
+5255	5514	6896968307014506	C:/Users/34722/Documents/build-Paint-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Paint_autogen/EWIEGA46WW/qrc_qml.cpp	1cc7679a6f46f5e1
+5537	7870	6896968330578742	CMakeFiles/Paint.dir/Paint_autogen/EWIEGA46WW/qrc_qml.cpp.obj	f2543d94504f7d8a
+5519	10651	6896968358609809	CMakeFiles/Paint.dir/filehandler.cpp.obj	b4ccf247c1d04f4e
+5515	10687	6896968359118440	CMakeFiles/Paint.dir/Paint_autogen/mocs_compilation.cpp.obj	2d31c6de6631cc24
+10687	12377	6896968375954940	Paint.exe	745ff7a528ec3349

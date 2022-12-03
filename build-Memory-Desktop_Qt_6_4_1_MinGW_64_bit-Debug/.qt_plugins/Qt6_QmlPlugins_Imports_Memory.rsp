@@ -1,0 +1,9 @@
+-rootPath
+C:/Users/34722/Documents/Memory
+-cmake-output
+-output-file
+C:/Users/34722/Documents/build-Memory-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_Memory.cmake
+-importPath
+C:/Users/34722/Documents/build-Memory-Desktop_Qt_6_4_1_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.4.1/mingw_64/./qml

@@ -1,0 +1,9 @@
+-rootPath
+C:/my projects/HTML1
+-cmake-output
+-output-file
+C:/my projects/build-HTML1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_HTML1.cmake
+-importPath
+C:/my projects/build-HTML1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.4.1/mingw_64/./qml

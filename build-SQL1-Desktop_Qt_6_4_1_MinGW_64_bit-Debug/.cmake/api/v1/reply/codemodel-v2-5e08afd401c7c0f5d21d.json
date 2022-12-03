@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-fd216edc8957c4898214.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SQL1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SQL1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SQL1-Debug-55e0752eb4a17530e219.json",
+					"name" : "SQL1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SQL1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SQL1_autogen-Debug-0d8d2adfa1b8f463ab7a.json",
+					"name" : "SQL1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SQL1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SQL1_autogen_timestamp_deps-Debug-c79124e3ffa1ec59b087.json",
+					"name" : "SQL1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SQL1_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SQL1_qmlimportscan-Debug-91c06a830843ed9cd1bc.json",
+					"name" : "SQL1_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/34722/Documents/build-SQL1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/34722/Documents/SQL1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

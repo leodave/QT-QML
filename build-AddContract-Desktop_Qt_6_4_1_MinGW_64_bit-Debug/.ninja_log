@@ -1,0 +1,21 @@
+# ninja log v5
+143	29406	6907322782941160	build.ninja	92b72933a90ba2bc
+60	2169	6907322811373299	.qt_plugins/Qt6_QmlPlugins_Imports_AddContract.cmake	ef731796e9e41145
+60	2169	6907322811373299	C:/Users/34722/Documents/build-AddContract-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_AddContract.cmake	ef731796e9e41145
+2288	11880	6907322906031604	AddContract_autogen/timestamp	5841475ad7b2e517
+2288	11880	6907322906031604	AddContract_autogen/mocs_compilation.cpp	5841475ad7b2e517
+2288	11880	6907322906031604	C:/Users/34722/Documents/build-AddContract-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/AddContract_autogen/timestamp	5841475ad7b2e517
+2288	11880	6907322906031604	C:/Users/34722/Documents/build-AddContract-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/AddContract_autogen/mocs_compilation.cpp	5841475ad7b2e517
+11881	12057	6907322910204816	AddContract_autogen/EWIEGA46WW/qrc_qml.cpp	ad7d80dfd06438d8
+11881	12057	6907322910204816	C:/Users/34722/Documents/build-AddContract-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/AddContract_autogen/EWIEGA46WW/qrc_qml.cpp	ad7d80dfd06438d8
+12063	16403	6907322953755670	CMakeFiles/AddContract.dir/AddContract_autogen/mocs_compilation.cpp.obj	929b3aacc7cabd5b
+12068	17216	6907322961828504	CMakeFiles/AddContract.dir/templatehandler.cpp.obj	7860fdfc35bb77ce
+12121	17403	6907322963810050	CMakeFiles/AddContract.dir/AddContract_autogen/EWIEGA46WW/qrc_qml.cpp.obj	eb610136059e3153
+12058	18657	6907322976274349	CMakeFiles/AddContract.dir/main.cpp.obj	9cee1e8a366e1005
+18670	21811	6907323007779835	AddContract.exe	d629626b7f516d0f
+15	396	6907325621422021	AddContract_autogen/timestamp	5841475ad7b2e517
+15	396	6907325621422021	AddContract_autogen/mocs_compilation.cpp	5841475ad7b2e517
+15	396	6907325621422021	C:/Users/34722/Documents/build-AddContract-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/AddContract_autogen/timestamp	5841475ad7b2e517
+15	396	6907325621422021	C:/Users/34722/Documents/build-AddContract-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/AddContract_autogen/mocs_compilation.cpp	5841475ad7b2e517
+414	3308	6907325650393601	CMakeFiles/AddContract.dir/templatehandler.cpp.obj	7860fdfc35bb77ce
+3309	3780	6907325655188738	AddContract.exe	d629626b7f516d0f

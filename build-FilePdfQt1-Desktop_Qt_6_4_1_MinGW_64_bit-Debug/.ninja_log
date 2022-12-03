@@ -1,0 +1,15 @@
+# ninja log v5
+16	1905	6905807563182809	build.ninja	13355c27a3c6eca8
+1	166	6905795294333585	.qt_plugins/Qt6_QmlPlugins_Imports_FilePdfQt1.cmake	1bbfdecea7d52d0a
+1	166	6905795294333585	C:/Users/34722/Documents/build-FilePdfQt1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_FilePdfQt1.cmake	1bbfdecea7d52d0a
+3	1989	6905808297421833	FilePdfQt1_autogen/timestamp	930c1bc7541b2f74
+3	1989	6905808297421833	FilePdfQt1_autogen/mocs_compilation.cpp	930c1bc7541b2f74
+3	1989	6905808297421833	C:/Users/34722/Documents/build-FilePdfQt1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/FilePdfQt1_autogen/timestamp	930c1bc7541b2f74
+3	1989	6905808297421833	C:/Users/34722/Documents/build-FilePdfQt1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/FilePdfQt1_autogen/mocs_compilation.cpp	930c1bc7541b2f74
+1991	2120	6905808303550589	FilePdfQt1_autogen/EWIEGA46WW/qrc_qml.cpp	23d2134f167455b2
+1991	2120	6905808303550589	C:/Users/34722/Documents/build-FilePdfQt1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/FilePdfQt1_autogen/EWIEGA46WW/qrc_qml.cpp	23d2134f167455b2
+2121	2545	6905808307214531	CMakeFiles/FilePdfQt1.dir/FilePdfQt1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	c69631f6febddb24
+2128	6027	6905808342601019	CMakeFiles/FilePdfQt1.dir/inputbox.cpp.obj	58aa81293ba53b88
+2140	6204	6905808344449720	CMakeFiles/FilePdfQt1.dir/FilePdfQt1_autogen/mocs_compilation.cpp.obj	9ef36ce99d56c29e
+2134	7065	6905808353081187	CMakeFiles/FilePdfQt1.dir/main.cpp.obj	aa61d86b92a24de1
+7066	7520	6905808357600123	FilePdfQt1.exe	7f22839076f01a39

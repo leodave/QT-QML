@@ -1,0 +1,13 @@
+# ninja log v5
+3	89	6909580987435902	.qt_plugins/Qt6_QmlPlugins_Imports_Paint1.cmake	149546181dfeee94
+3	89	6909580987435902	C:/my projects/build-Paint1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_Paint1.cmake	149546181dfeee94
+90	491	6909580989370726	Paint1_autogen/timestamp	52a600737a3b6231
+90	491	6909580989370726	Paint1_autogen/mocs_compilation.cpp	52a600737a3b6231
+90	491	6909580989370726	C:/my projects/build-Paint1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Paint1_autogen/timestamp	52a600737a3b6231
+90	491	6909580989370726	C:/my projects/build-Paint1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Paint1_autogen/mocs_compilation.cpp	52a600737a3b6231
+546	650	6909580993036201	Paint1_autogen/EWIEGA46WW/qrc_qml.cpp	272ede426127bf7
+546	650	6909580993036201	C:/my projects/build-Paint1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Paint1_autogen/EWIEGA46WW/qrc_qml.cpp	272ede426127bf7
+650	746	6909580993977674	CMakeFiles/Paint1.dir/Paint1_autogen/mocs_compilation.cpp.obj	e2d486ead98c4b6e
+656	766	6909580994218305	CMakeFiles/Paint1.dir/Paint1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3ace60246e07149b
+653	2985	6909581016299046	CMakeFiles/Paint1.dir/main.cpp.obj	f38910c6dc5f6868
+2990	3197	6909581018432650	Paint1.exe	e613ec909b15ce53

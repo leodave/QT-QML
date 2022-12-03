@@ -1,0 +1,10 @@
+C:/my projects/build-Paint1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/Paint1.dir
+C:/my projects/build-Paint1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/Paint1_qmlimportscan.dir
+C:/my projects/build-Paint1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/my projects/build-Paint1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/my projects/build-Paint1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/my projects/build-Paint1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/my projects/build-Paint1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/my projects/build-Paint1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/my projects/build-Paint1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/Paint1_autogen_timestamp_deps.dir
+C:/my projects/build-Paint1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/Paint1_autogen.dir

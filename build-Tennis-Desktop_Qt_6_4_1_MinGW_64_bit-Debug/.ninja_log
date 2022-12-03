@@ -1,0 +1,21 @@
+# ninja log v5
+2	72	6909571736594422	.qt_plugins/Qt6_QmlPlugins_Imports_Tennis.cmake	e4570aec2d1b70f7
+73	423	6909571738151691	C:/my projects/build-Tennis-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Tennis_autogen/mocs_compilation.cpp	a1933d2db03ea618
+434	509	6909571740911982	Tennis_autogen/EWIEGA46WW/qrc_qml.cpp	2d0f15dd372d2040
+2	72	6909571736594422	C:/my projects/build-Tennis-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_Tennis.cmake	e4570aec2d1b70f7
+73	423	6909571738151691	Tennis_autogen/timestamp	a1933d2db03ea618
+73	423	6909571738151691	Tennis_autogen/mocs_compilation.cpp	a1933d2db03ea618
+73	423	6909571738151691	C:/my projects/build-Tennis-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Tennis_autogen/timestamp	a1933d2db03ea618
+434	509	6909571740911982	C:/my projects/build-Tennis-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Tennis_autogen/EWIEGA46WW/qrc_qml.cpp	2d0f15dd372d2040
+510	596	6909571741803594	CMakeFiles/Tennis.dir/Tennis_autogen/mocs_compilation.cpp.obj	e8df24b1250e59b1
+513	618	6909571742069956	CMakeFiles/Tennis.dir/Tennis_autogen/EWIEGA46WW/qrc_qml.cpp.obj	5847022ad8826cae
+516	2705	6909571762830733	CMakeFiles/Tennis.dir/main.cpp.obj	6aaeeab1a3dc6765
+2736	2944	6909571765278969	Tennis.exe	a27ac58e29e5b1f8
+21	310	6909572525898088	Tennis_autogen/timestamp	a1933d2db03ea618
+21	310	6909572525898088	Tennis_autogen/mocs_compilation.cpp	a1933d2db03ea618
+21	310	6909572525898088	C:/my projects/build-Tennis-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Tennis_autogen/timestamp	a1933d2db03ea618
+21	310	6909572525898088	C:/my projects/build-Tennis-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Tennis_autogen/mocs_compilation.cpp	a1933d2db03ea618
+324	398	6909572526725863	Tennis_autogen/EWIEGA46WW/qrc_qml.cpp	2d0f15dd372d2040
+324	398	6909572526725863	C:/my projects/build-Tennis-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Tennis_autogen/EWIEGA46WW/qrc_qml.cpp	2d0f15dd372d2040
+398	477	6909572527555198	CMakeFiles/Tennis.dir/Tennis_autogen/EWIEGA46WW/qrc_qml.cpp.obj	5847022ad8826cae
+478	695	6909572529690919	Tennis.exe	a27ac58e29e5b1f8

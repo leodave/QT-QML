@@ -1,0 +1,13 @@
+# ninja log v5
+3	107	6905819343550169	.qt_plugins/Qt6_QmlPlugins_Imports_DrawPaint1.cmake	a207168ead49b651
+3	107	6905819343550169	C:/Users/34722/Documents/build-DrawPaint1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_DrawPaint1.cmake	a207168ead49b651
+108	523	6905819345265585	DrawPaint1_autogen/timestamp	835543173c282856
+108	523	6905819345265585	DrawPaint1_autogen/mocs_compilation.cpp	835543173c282856
+108	523	6905819345265585	C:/Users/34722/Documents/build-DrawPaint1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/DrawPaint1_autogen/timestamp	835543173c282856
+108	523	6905819345265585	C:/Users/34722/Documents/build-DrawPaint1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/DrawPaint1_autogen/mocs_compilation.cpp	835543173c282856
+524	600	6905819348451801	DrawPaint1_autogen/EWIEGA46WW/qrc_qml.cpp	1a65ae306b72211c
+524	600	6905819348451801	C:/Users/34722/Documents/build-DrawPaint1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/DrawPaint1_autogen/EWIEGA46WW/qrc_qml.cpp	1a65ae306b72211c
+601	706	6905819349518638	CMakeFiles/DrawPaint1.dir/DrawPaint1_autogen/mocs_compilation.cpp.obj	aee869bc7fb0204d
+604	716	6905819349628350	CMakeFiles/DrawPaint1.dir/DrawPaint1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	913bb3627e8185f6
+607	3090	6905819373274673	CMakeFiles/DrawPaint1.dir/main.cpp.obj	9e59c45147f50106
+3101	3322	6905819375564132	DrawPaint1.exe	2138aede5810f5b9

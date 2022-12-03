@@ -1,0 +1,10 @@
+C:/Users/34722/Documents/build-painter-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/painter.dir
+C:/Users/34722/Documents/build-painter-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/painter_qmlimportscan.dir
+C:/Users/34722/Documents/build-painter-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/34722/Documents/build-painter-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/34722/Documents/build-painter-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/34722/Documents/build-painter-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/34722/Documents/build-painter-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/34722/Documents/build-painter-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/34722/Documents/build-painter-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/painter_autogen_timestamp_deps.dir
+C:/Users/34722/Documents/build-painter-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/painter_autogen.dir

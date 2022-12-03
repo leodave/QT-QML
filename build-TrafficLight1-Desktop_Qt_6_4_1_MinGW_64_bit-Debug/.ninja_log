@@ -1,0 +1,13 @@
+# ninja log v5
+3	121	6909570249232615	.qt_plugins/Qt6_QmlPlugins_Imports_TrafficLight1.cmake	59d97bac2aa15cd2
+3	121	6909570249232615	C:/my projects/build-TrafficLight1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_TrafficLight1.cmake	59d97bac2aa15cd2
+122	521	6909570251007851	TrafficLight1_autogen/timestamp	3026af6e3ea3dc0f
+122	521	6909570251007851	TrafficLight1_autogen/mocs_compilation.cpp	3026af6e3ea3dc0f
+122	521	6909570251007851	C:/my projects/build-TrafficLight1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/TrafficLight1_autogen/timestamp	3026af6e3ea3dc0f
+122	521	6909570251007851	C:/my projects/build-TrafficLight1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/TrafficLight1_autogen/mocs_compilation.cpp	3026af6e3ea3dc0f
+556	630	6909570254318339	TrafficLight1_autogen/EWIEGA46WW/qrc_qml.cpp	25abdd568aa81894
+556	630	6909570254318339	C:/my projects/build-TrafficLight1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/TrafficLight1_autogen/EWIEGA46WW/qrc_qml.cpp	25abdd568aa81894
+638	742	6909570255433230	CMakeFiles/TrafficLight1.dir/TrafficLight1_autogen/mocs_compilation.cpp.obj	4af136362bef85a8
+631	745	6909570255453175	CMakeFiles/TrafficLight1.dir/TrafficLight1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	1cf0bab84d854e9a
+634	3024	6909570278162127	CMakeFiles/TrafficLight1.dir/main.cpp.obj	66858fae4ea7e7fc
+3029	3281	6909570280772527	TrafficLight1.exe	2b3f1908b5552b6f

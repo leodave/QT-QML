@@ -1,0 +1,7 @@
+# ninja log v5
+2	2419	6905817263254935	AddImage1_autogen/timestamp	f1d8b316f26ebab9
+2	2419	6905817263254935	AddImage1_autogen/mocs_compilation.cpp	f1d8b316f26ebab9
+2	2419	6905817263254935	C:/Users/34722/Documents/build-AddImage1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/AddImage1_autogen/timestamp	f1d8b316f26ebab9
+2	2419	6905817263254935	C:/Users/34722/Documents/build-AddImage1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/AddImage1_autogen/mocs_compilation.cpp	f1d8b316f26ebab9
+2436	9154	6905817335522942	CMakeFiles/AddImage1.dir/AddImage1_autogen/mocs_compilation.cpp.obj	952da8f9ba2df822
+2452	9254	6905817336521929	CMakeFiles/AddImage1.dir/main.cpp.obj	45b8130fed0c1ab

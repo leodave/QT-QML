@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ebb12bebc5dc5c7877dc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QmlContract",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QmlContract::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QmlContract-Debug-2bb10a5fc597c30dcb2b.json",
+					"name" : "QmlContract",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QmlContract_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QmlContract_autogen-Debug-f16a0917500a631e65e7.json",
+					"name" : "QmlContract_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QmlContract_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QmlContract_autogen_timestamp_deps-Debug-f6d27c39c6dd353b3218.json",
+					"name" : "QmlContract_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QmlContract_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QmlContract_qmlimportscan-Debug-11187793eeb5311bac5d.json",
+					"name" : "QmlContract_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/34722/Documents/build-QmlContract-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/34722/Documents/QmlContract"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

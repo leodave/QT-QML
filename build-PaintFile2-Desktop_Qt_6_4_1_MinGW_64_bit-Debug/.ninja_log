@@ -1,0 +1,15 @@
+# ninja log v5
+18	2142	6905846045285328	build.ninja	33213c52928b456b
+113	3121	6905845275499549	PaintFile2_autogen/mocs_compilation.cpp	25ff71216dde37d0
+3	112	6905845259820351	.qt_plugins/Qt6_QmlPlugins_Imports_PaintFile2.cmake	ec445af95207799f
+3	112	6905845259820351	C:/Users/34722/Documents/build-PaintFile2-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_PaintFile2.cmake	ec445af95207799f
+113	3121	6905845275499549	PaintFile2_autogen/timestamp	25ff71216dde37d0
+113	3121	6905845275499549	C:/Users/34722/Documents/build-PaintFile2-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/PaintFile2_autogen/mocs_compilation.cpp	25ff71216dde37d0
+113	3121	6905845275499549	C:/Users/34722/Documents/build-PaintFile2-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/PaintFile2_autogen/timestamp	25ff71216dde37d0
+3142	3302	6905845291805960	PaintFile2_autogen/EWIEGA46WW/qrc_qml.cpp	ee1883b74bbc1cfa
+3142	3302	6905845291805960	C:/Users/34722/Documents/build-PaintFile2-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/PaintFile2_autogen/EWIEGA46WW/qrc_qml.cpp	ee1883b74bbc1cfa
+3318	3918	6905845297101807	CMakeFiles/PaintFile2.dir/PaintFile2_autogen/EWIEGA46WW/qrc_qml.cpp.obj	59a2002caafc1f72
+3315	8466	6905845343181926	CMakeFiles/PaintFile2.dir/PaintFile2_autogen/mocs_compilation.cpp.obj	d2417ad0e46e3f3e
+3311	8653	6905845345316037	CMakeFiles/PaintFile2.dir/filemanagment.cpp.obj	6fa6e60e5b0c2478
+3302	9283	6905845351672793	CMakeFiles/PaintFile2.dir/main.cpp.obj	5b2f27d0eb0bd5f5
+9285	9957	6905845358335684	PaintFile2.exe	1060bb85e27fd17e

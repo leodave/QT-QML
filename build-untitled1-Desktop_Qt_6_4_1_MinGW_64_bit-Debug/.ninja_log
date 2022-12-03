@@ -1,0 +1,13 @@
+# ninja log v5
+4	605	6905786769515652	.qt_plugins/Qt6_QmlPlugins_Imports_untitled1.cmake	83577e48a916e4b9
+4	605	6905786769515652	C:/Users/34722/Documents/build-untitled1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_untitled1.cmake	83577e48a916e4b9
+606	1067	6905786771560189	untitled1_autogen/timestamp	d43a96deaea1967b
+606	1067	6905786771560189	untitled1_autogen/mocs_compilation.cpp	d43a96deaea1967b
+606	1067	6905786771560189	C:/Users/34722/Documents/build-untitled1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/untitled1_autogen/timestamp	d43a96deaea1967b
+606	1067	6905786771560189	C:/Users/34722/Documents/build-untitled1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/untitled1_autogen/mocs_compilation.cpp	d43a96deaea1967b
+1068	1189	6905786775330118	untitled1_autogen/EWIEGA46WW/qrc_qml.cpp	4698daa7fd152ef5
+1068	1189	6905786775330118	C:/Users/34722/Documents/build-untitled1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/untitled1_autogen/EWIEGA46WW/qrc_qml.cpp	4698daa7fd152ef5
+1190	1490	6905786778392280	CMakeFiles/untitled1.dir/untitled1_autogen/mocs_compilation.cpp.obj	e45b7af6509352f7
+1193	1564	6905786779125711	CMakeFiles/untitled1.dir/untitled1_autogen/EWIEGA46WW/qrc_qml.cpp.obj	f5963c2dafdb3024
+1197	5211	6905786815570655	CMakeFiles/untitled1.dir/main.cpp.obj	7351b2d97a88f755
+5216	6263	6905786826093195	untitled1.exe	1aa6a55acd401c2

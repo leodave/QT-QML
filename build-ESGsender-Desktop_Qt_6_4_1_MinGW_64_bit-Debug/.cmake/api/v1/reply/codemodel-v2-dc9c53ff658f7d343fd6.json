@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c0dcbe5d635729a8f2eb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ESGsender1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ESGsender1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ESGsender1-Debug-88271c9c0eea37bde8dc.json",
+					"name" : "ESGsender1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ESGsender1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ESGsender1_autogen-Debug-035f018805b31e03efcb.json",
+					"name" : "ESGsender1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ESGsender1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ESGsender1_autogen_timestamp_deps-Debug-1a52f8913c5d458c076c.json",
+					"name" : "ESGsender1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ESGsender1_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ESGsender1_qmlimportscan-Debug-f077177a5ec24ae671ab.json",
+					"name" : "ESGsender1_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/my projects/build-ESGsender-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "C:/my projects/ESGsender"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

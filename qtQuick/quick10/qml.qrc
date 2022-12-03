@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>../quick5/images/bas.jpg</file>
+    </qresource>
+</RCC>

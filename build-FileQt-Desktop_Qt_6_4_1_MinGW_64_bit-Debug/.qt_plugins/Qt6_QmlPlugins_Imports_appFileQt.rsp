@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/34722/Documents/FileQt
+-cmake-output
+-output-file
+C:/Users/34722/Documents/build-FileQt-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appFileQt.cmake
+-importPath
+C:/Users/34722/Documents/build-FileQt-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/FileQt
+-importPath
+C:/Users/34722/Documents/build-FileQt-Desktop_Qt_6_4_1_MinGW_64_bit-Debug
+-importPath
+C:/QtNew/6.4.1/mingw_64/./qml
+-qrcFiles
+C:/Users/34722/Documents/build-FileQt-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_FileQt.qrc
+C:/Users/34722/Documents/build-FileQt-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/appFileQt_raw_qml_0.qrc
