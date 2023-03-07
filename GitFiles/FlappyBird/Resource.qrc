@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/a.a2.jpeg</file>
+        <file>Images/flappybirdwingdown.jfif</file>
+        <file>Images/flappybirdwingmiddle.jfif</file>
+        <file>Images/flappywingup.jfif</file>
+        <file>Images/gameover.jfif</file>
+        <file>Images/pillar.png</file>
+        <file>../../Users/34722/Downloads/aa1.jpg</file>
+        <file>Images/aa1.jpg</file>
+        <file>Images/abiydown.png</file>
+        <file>Images/abiystraight.png</file>
+        <file>Images/abiyup.png</file>
+        <file>Images/goldpilla.png</file>
+        <file>Images/aa2.png</file>
+        <file>Images/aa3.jpeg</file>
+    </qresource>
+</RCC>

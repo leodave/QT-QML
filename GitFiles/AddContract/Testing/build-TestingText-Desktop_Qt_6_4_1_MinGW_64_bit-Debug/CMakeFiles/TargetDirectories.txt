@@ -1,0 +1,6 @@
+C:/Users/34722/Documents/AddContract/Testing/build-TestingText-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/TestingText.dir
+C:/Users/34722/Documents/AddContract/Testing/build-TestingText-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/test.dir
+C:/Users/34722/Documents/AddContract/Testing/build-TestingText-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/34722/Documents/AddContract/Testing/build-TestingText-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/34722/Documents/AddContract/Testing/build-TestingText-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/TestingText_autogen_timestamp_deps.dir
+C:/Users/34722/Documents/AddContract/Testing/build-TestingText-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/TestingText_autogen.dir

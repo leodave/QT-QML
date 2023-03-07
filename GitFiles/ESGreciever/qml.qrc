@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>../../Users/34722/Downloads/beep-02.wav</file>
+    </qresource>
+</RCC>

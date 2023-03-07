@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Boton.qml</file>
+        <file>LabelAndInput.qml</file>
+        <file>../build-UserSaverQml1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ccc.png</file>
+    </qresource>
+</RCC>

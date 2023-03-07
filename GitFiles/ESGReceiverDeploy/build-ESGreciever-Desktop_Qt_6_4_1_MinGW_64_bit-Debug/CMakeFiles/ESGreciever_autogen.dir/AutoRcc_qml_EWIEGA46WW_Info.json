@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "C:/my projects/build-ESGreciever-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGreciever_autogen",
+	"CMAKE_BINARY_DIR" : "C:/my projects/build-ESGreciever-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/my projects/build-ESGreciever-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/my projects/ESGreciever",
+	"CMAKE_SOURCE_DIR" : "C:/my projects/ESGreciever",
+	"INCLUDE_DIR" : "C:/my projects/build-ESGreciever-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ESGreciever_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/my projects/ESGreciever/main.qml",
+		"C:/Users/34722/Downloads/beep-02.wav"
+	],
+	"LOCK_FILE" : "C:/my projects/build-ESGreciever-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/ESGreciever_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.4.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/my projects/build-ESGreciever-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/ESGreciever_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/my projects/ESGreciever/qml.qrc",
+	"VERBOSITY" : 0
+}
