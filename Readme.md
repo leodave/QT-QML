@@ -1,0 +1,1 @@
+This is a C++ QT/QML excercises to develop desktop applications
